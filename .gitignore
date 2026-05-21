@@ -1,0 +1,11 @@
+# Archivos confidenciales
+confidencial.txt
+
+# Variables de entorno
+.env
+.env.local
+.env.*
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
